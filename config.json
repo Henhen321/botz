@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285721670655@s.whatsapp.net","6285866034212@s.whatsapp.net"],
+    "ownerName": "HENHEN",
+    "instagram" : "https://instagram.com/drajat.henhen",
+    "gcwa" : "https://chat.whatsapp.com/ErI3GVWipee2gZrbPQBfnU",
+    "botName": "HENBotz",
+    "footer": "itsuka Store",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "https://i.ibb.co/g7N1243/IMG-20231212-WA0044.jpg",
+    "BotKey": "PHUuHo4b2nErbAZ",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
